@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+text-align: center;
+margin-top: 50px;
+}
+nav,a{
+    text-align: center;
+    text-decoration: none;
+    margin-right: 10px;
+    background-color: silver;
+width: 100%;
+color: dimgray;
+}
