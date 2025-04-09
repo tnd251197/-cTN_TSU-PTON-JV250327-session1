@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 30px;
+}
+body{
+    margin-top: 100px;
+}
+h2{
+    margin-left: 50px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hoten{
+    margin-left: 20px;
+}
+.email{
+    margin-left: 20px;
+}
+.tinnhan{
+    margin-left: 20px;
+}
+input{
+    width: 300px;
+}
+.nhap{
+    width: 300px;
+    height: 70px;
+}
+button{
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    border-radius: 2px;
+    width: 300px;
+    margin-left: 20px;
+}
