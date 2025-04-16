@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box ;
+    margin: 0;
+    padding: 0;
+}
+span{
+    color: blue;
+}
+body{
+    width: 800px;
+    height: 200px;
+    border: 2px  solid black;
+    line-height: 25px;
+    text-align: justify;
+
+}
+.p1{
+    margin-bottom: 20px;
+}
