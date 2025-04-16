@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tip {
+    background-color: rgb(232, 214, 182);
+border-left: 5px solid orangered;
+}
+
+span{
+    color: orange;
+}
+body{
+    text-align: justify;
+    line-height: 30px;
+}
