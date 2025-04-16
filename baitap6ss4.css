@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+     color: black;
+     line-height: 40px;
+     text-indent: 10px ; 
+     display: block;
+     
+}
+nav{
+    float: left;
+    background-color: silver;
+    width: 200px;
+    height: 300px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+a:hover {
+    background-color: green;
+
+}
+.menu{
+    padding-top: 50px;
+ margin-left: 250px;
+ line-height: 50px;
+}
