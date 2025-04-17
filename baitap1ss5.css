@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+button{
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 100px;
+    height: 50px;
+    border-top:10px solid red ;
+    border-left: 10px groove rgb(92, 14, 92);
+    border-bottom: 10px double green;
+    border-right: 7px dotted blueviolet;
+}
