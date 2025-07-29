@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    background-color: silver;
+    width: 500px;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.chile{
+    width: 100px;
+    height:100px ;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+}
